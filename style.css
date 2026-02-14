@@ -1,0 +1,32 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    width:400px;
+    margin:80px auto;
+    padding:25px;
+    background-color:antiquewhite;
+    border-radius:10px;
+    box-shadow: 0px 10px 20px  gray;   
+}
+h1{
+    font-size:30px;
+    text-align:center;
+}
+label {
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ff34c2;
+    font-size: 14px;
+}
